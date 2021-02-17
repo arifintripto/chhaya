@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f6429da-c7d0-4224-bf78-686675a2b810" name="Default Changelist" comment="Deleted All.zip again" />
+    <list default="true" id="6f6429da-c7d0-4224-bf78-686675a2b810" name="Default Changelist" comment="Deleted All.zip again">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
