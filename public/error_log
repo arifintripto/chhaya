@@ -1,0 +1,4 @@
+[12-Sep-2020 04:45:26 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/vmslwbkl/chhaya.vmsl.online/app/Http/Controllers/ProductinformationController.php on line 111
+[16-Sep-2020 16:56:13 Asia/Dhaka] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/vmslwbkl/chhaya.vmsl.online/app/Http/Controllers/CitController.php on line 211
+[16-Sep-2020 16:56:29 Asia/Dhaka] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/vmslwbkl/chhaya.vmsl.online/app/Http/Controllers/CitController.php on line 211
+[17-Sep-2020 01:57:15 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 1054883840 bytes) in /home/vmslwbkl/chhaya.vmsl.online/storage/framework/views/20f82f4a741f4b7bf7b89db5ea075c173ba06d14.php on line 386

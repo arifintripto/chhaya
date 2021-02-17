@@ -1,0 +1,8 @@
+[2020-12-31 14:31:20] local.ERROR: Cannot use isset() on the result of an expression (you can use "null !== expression" instead) {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot use isset() on the result of an expression (you can use \"null !== expression\" instead) at /var/www/html/storage/framework/views/9de6292cf5f652b49b3a8c1e85d7e0d054a11069.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2020-12-31 14:32:30] local.ERROR: Cannot use isset() on the result of an expression (you can use "null !== expression" instead) {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot use isset() on the result of an expression (you can use \"null !== expression\" instead) at /var/www/html/storage/framework/views/9de6292cf5f652b49b3a8c1e85d7e0d054a11069.php:3)
+[stacktrace]
+#0 {main}
+"} 
